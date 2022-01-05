@@ -1,2 +1,2 @@
-# curso_DIO
-Curso na plataforma do dio Fullstack Developer
+# curso_DIO Fullstack Developer
+objetivo e organizar minhas anotações por modulo

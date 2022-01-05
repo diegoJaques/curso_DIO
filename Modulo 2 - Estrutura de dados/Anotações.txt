@@ -1,0 +1,30 @@
+Vetores e matrizes - variaveis do mesmo tipo
+
+Registro - varios dados de tipos diferentes
+
+Listas - armazena  dados de diferentes tipos e tamanhos diferentes - tamanho ajustado
+
+ligadas - nó ou indice - sem retorno
+duplamente ligadas  - com retorno - bi dericional
+
+Pilha - só permite acesso aos itens uma unica vez
+
+LIFO ou UEPS - ultimo que entra primeiro que sai
+
+FIFO ou PEPS - primeiro que entra primeiro que sai
+
+Pilhas - fila admite remoção de elementos e inserção de novos sujeita a seguinte regra
+
+FIFO - a pessoa que esta mais tempo na fila e o primeiro que sai
+
+Objetos
+
+arvores - elementos de forma hierraeuica ( raiz topo, nós ou folhas) - facilita a buscas
+
+tabela hash - tabelha de espalhamento ou disperção - associa valor a chave de pesquisa
+
+grafos - estrutura que permite programar a relação entre os objetos
+
+os objetos são vertices ou nós do grafo
+
+os relacionamento são as arestas

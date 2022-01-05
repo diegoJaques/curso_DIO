@@ -1,0 +1,11 @@
+Programas uteis
+
+Portugol Studio
+Flowgorithm.exe
+
+Antes de iniciar qualquer projeto pensar na ordem fluxogram do programa
+concatenação +
+mostras = escreve
+pegar as informações = leia
+Estruturas de repetição ou laço de repetição  ( faca junto com enquanto)  ou ( para = o for)
+Matrizes e vetores  = []
